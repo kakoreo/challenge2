@@ -1,0 +1,98 @@
+body{
+  font-family: 'Karla', sans-serif;
+  margin: 0;
+
+}
+
+h1{
+  color: hsl(179, 62%, 43%);
+  font-size: 40px;
+}
+
+h2{
+  color: white;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+
+p{
+  color: hsl(204, 43%, 93%);
+  display: inline-block;
+  font-size: 18px;
+}
+
+button{
+  background-color: hsl(71, 73%, 54%);
+  font-size: 24px;
+  color: white;
+  border-style: none;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  margin-top: 20px;
+}
+
+span{
+  font-size: 36px;
+}
+
+.p1{
+  color: hsl(218, 22%, 67%);
+  width: 50%;
+}
+
+.top-h2{
+  color: hsl(71, 73%, 54%);
+}
+
+.top-container{
+  text-align: center;
+  height: 300px;
+}
+
+.top-div{
+  margin: 50px;
+}
+
+.middle-container{
+  background-color: hsl(179, 62%, 43%);
+  width: 50%;
+  display: inline-block;
+  height: 350px;
+  text-align: center;
+}
+
+.middle-div{
+  margin-left: 30%;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.p2{
+  width: 50%;
+  display: block;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  width: 60%;
+  display: inline-block;
+  position: absolute;
+  height: 350px;
+  text-align: center;
+
+}
+
+.bottom-div{
+  margin-left: 20%;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.p3{
+  width: 55%;
+  margin: 0;
+  padding-top: 20px;
+}
